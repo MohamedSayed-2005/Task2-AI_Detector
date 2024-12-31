@@ -1,1 +1,6 @@
 pip install torch torchvision Pillow numpy
+torch==2.1.0
+torchvision==0.15.1
+Pillow==9.6.1
+tkinter==8.6
+numpy==1.24.3
