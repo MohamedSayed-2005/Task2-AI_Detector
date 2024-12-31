@@ -12,7 +12,7 @@ This project is a medical image identification system built using PyTorch and a 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/medical-image-identification.git
+    git clone https://github.com/MohamedSayed-2005/Task2-AI_Detector.git
     ```
 
 2. Install the dependencies:
