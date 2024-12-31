@@ -40,5 +40,3 @@ This project is a medical image identification system built using PyTorch and a 
 
 Ensure you have collected images for each body part (brain, lungs, knee, hand) to train the model. Images can be added through the GUI.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
