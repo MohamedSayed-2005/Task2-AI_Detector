@@ -14,8 +14,13 @@ This project is a medical image identification system built using PyTorch and a 
     ```bash
     git clone https://github.com/MohamedSayed-2005/Task2-AI_Detector.git
     ```
+    
+2. Navigate to the project directory:
+    ```bash
+    cd AI_Detector
+    ```
 
-2. Install the dependencies:
+3. Install the dependencies:
     ```bash
     pip install torch torchvision Pillow numpy
     ```
